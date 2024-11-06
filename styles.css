@@ -1,10 +1,13 @@
-.accio{
-	width:150px;
-	height:150px;
-	background-color:black;
+/* Style for the main element */
+main.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000; /* black */
 }
-.hello-accio{
- color:white;
- margin-left:32px;
- padding:10px;  
+
+/* Style for the p element with the class hello-accio */
+p.hello-accio {
+    color: #ffffff; /* white text color */
+    margin-left: 32px; /* left margin */
+    padding: 10px; /* padding on all sides */
 }
